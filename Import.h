@@ -1,0 +1,9 @@
+#include <freertos/FreeRTOS.h>
+#include <freertos/task.h>
+#include <HTTPClient.h>
+#include <ArduinoJson.h>
+#include "Tarea1.h"
+#include "Tarea2.h"
+#include "Utils.h"
+#include "Data.h"
+#include "Conexiones.h"
